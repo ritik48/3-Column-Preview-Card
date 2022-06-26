@@ -34,7 +34,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [https://github.com/ritik48/3-Column-Preview-Card](https://your-solution-url.com)
+- Solution URL: https://github.com/ritik48/3-Column-Preview-Card
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
